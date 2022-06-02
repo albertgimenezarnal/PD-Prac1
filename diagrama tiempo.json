@@ -1,0 +1,21 @@
+{ signal: [
+
+  { name: "Process",         wave: "x6x1x0x8x3" }
+],
+head: {text:
+    ['tspan',
+      ['tspan', {class:'info h3'}, 'Diagrama de tiempo']]
+      
+  },
+
+  foot: {text:
+    ['tspan', 'x-->Menu / ',
+      ['tspan', 'cyan-->a / '],
+      ['tspan',  '1-->b / '],
+      ['tspan', '0-->c / '],
+      ['tspan', 'pink-->d / '],
+      ['tspan', 'yellow-->e  '],
+    ],tock:0
+  }
+  }
+
